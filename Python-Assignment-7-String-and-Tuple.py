@@ -10,7 +10,7 @@ print(result[-1])
 print(result[:5])
 print(result[-11:])
 print(result[::-1])
-print(result[:20])
+print(result[23:29])
 
 
 strM = "Python beginner tutorial"
